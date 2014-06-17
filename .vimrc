@@ -15,6 +15,7 @@
   Bundle 'bling/vim-airline'
   Bundle 'tpope/vim-fireplace'
   Bundle 'sjl/gundo.vim'
+  Bundle 'flazz/vim-colorschemes'
   filetype on
 
 " enable php filetype for MTA
